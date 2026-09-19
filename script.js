@@ -1,1 +1,1 @@
-// No clickable links or automatic redirects on this page.
+// Esta página no usa botones ni enlaces automáticos.
